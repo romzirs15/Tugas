@@ -1,0 +1,27 @@
+h1{color: brown;}
+
+.kotak{
+        width: 100px;
+        height: 100px;
+        padding: 50px;
+        margin: 20px;
+        color: white;
+        float: left;
+}
+
+#biru{
+        background-color: blue;
+}
+
+#lavender{
+        background-color: purple;
+}
+
+#merahmuda{
+        background-color: pink;
+        color: black;
+}
+
+#jingga{
+        background-color: orange;
+}
